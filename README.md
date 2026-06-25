@@ -1,0 +1,2 @@
+# AKAS
+Aplikasi Keuangan Sekolah
