@@ -1,0 +1,62 @@
+D:\Matkul Semester 3\Pemrograman Visual\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.vbproj.AssemblyReference.cache
+D:\Matkul Semester 3\Pemrograman Visual\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Dashboard.resources
+D:\Matkul Semester 3\Pemrograman Visual\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.DataSiswa.resources
+D:\Matkul Semester 3\Pemrograman Visual\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Login.resources
+D:\Matkul Semester 3\Pemrograman Visual\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Resources.resources
+D:\Matkul Semester 3\Pemrograman Visual\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.vbproj.GenerateResource.cache
+D:\Matkul Semester 3\Pemrograman Visual\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.vbproj.CoreCompileInputs.cache
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.vbproj.AssemblyReference.cache
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Dashboard.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.DataSiswa.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.DataStaff.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.LaporanKegiatan.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Login.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.MenuDashboard.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Resources.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Pembayaran_lainnya.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.PembayaranLainnya.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Pengeluaran.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.Setelan.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.vbproj.GenerateResource.cache
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.vbproj.CoreCompileInputs.cache
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.LaporanTabungan.resources
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\ProjectUASPV.exe.config
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\ProjectUASPV.exe
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\ProjectUASPV.pdb
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\ProjectUASPV.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\BouncyCastle.Cryptography.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\Google.Protobuf.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\K4os.Compression.LZ4.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\K4os.Hash.xxHash.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\MySql.Data.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Buffers.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.IO.Pipelines.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Memory.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\ZstdSharp.dll
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\BouncyCastle.Cryptography.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\Google.Protobuf.pdb
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\Google.Protobuf.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\K4os.Compression.LZ4.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\K4os.Hash.xxHash.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\MySql.Data.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Buffers.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.IO.Pipelines.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Memory.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectU.E2ED39CF.Up2Date
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.exe
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.xml
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.pdb
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.exe.config
+C:\PROJECT VISUAL STUDIO\PROJECT_UAS_PV\ProjectUASPV\ProjectUASPV\obj\Debug\ProjectUASPV.LaporanSpp.resources
